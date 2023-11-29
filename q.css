@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.s{
+    background-color: rgb(178, 222, 204);
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.s:hover{
+    background-color: rgb(178, 222, 204);
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 25px rgb(72, 207, 234);
+}
